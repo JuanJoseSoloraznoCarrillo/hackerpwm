@@ -1,4 +1,8 @@
-# hackerpwm
+# Own Notes: 
+- Debian does not have curl installed. Before install this repo, be sure curl is already installed on the machine.
+-
+
+#hackerpwm
 Deploy the best environment for Kali Linux.
 
 ![GIF](https://raw.githubusercontent.com/thegoodhackertv/hackerpwm/main/env.gif)
