@@ -1,6 +1,8 @@
-# Own Notes: 
-- Debian does not have curl installed. Before install this repo, be sure curl is already installed on the machine.
--
+> [!IMPORTANT]
+> - Debian does not have curl installed. Before install this repo, be sure curl is already installed on the machine.
+> - How to install: ```sudo apt install curl -y```
+> - go to: https://github.com/JuanJoseSoloraznoCarrillo/linux.files.conf and clone the repo.
+----
 
 #hackerpwm
 Deploy the best environment for Kali Linux.
